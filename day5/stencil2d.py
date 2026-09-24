@@ -1,1 +1,0 @@
-../day1/stencil2d.py

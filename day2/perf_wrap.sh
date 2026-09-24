@@ -1,1 +1,0 @@
-../day1/perf_wrap.sh
